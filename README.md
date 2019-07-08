@@ -6,7 +6,7 @@ https://github.com/gartz/ObjectEventTarget
 <script src="ObjectEventTarget.js"></script>
 ```
 
-```
+```sh
 npm install objecteventarget --save
 ```
 
